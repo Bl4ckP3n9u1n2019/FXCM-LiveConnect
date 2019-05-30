@@ -19,3 +19,9 @@ The timer / auto stop will be reviewed, not sure I will just close after each da
 
 Mainly I will concentrate on creating this in Juptyer Notebooks and then 'convert' to a py script to run from Digital Ocean.
 Addtional features will include a start-up function to provide an overview of the account and give the use options to choose what instrument they want to trade
+
+## Final Update ##
+
+I have now uploaded https://github.com/Bl4ckP3n9u1n2019/ML-FXCM-Trader
+
+This integrates the FXCM Connection and I will no longer be developing this part.
